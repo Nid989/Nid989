@@ -9,7 +9,7 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
-      <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="55" height="55"/>
+      <img src="emojipng.com-13888820.png" alt="huggingface" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
